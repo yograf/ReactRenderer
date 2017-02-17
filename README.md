@@ -6,7 +6,7 @@ It was previously part of [ReactBundle](https://github.com/Limenius/ReactBundle)
 
 Features include:
 
-* Prerrender server-side React components for SEO, faster page loading, for users that have disabled JavaScript, or for Progressive Wweb Applications.
+* Prerrender server-side React components for SEO, faster page loading, for users that have disabled JavaScript, or for Progressive Web Applications.
 * Twig integration.
 * Client-side render will take the server-side rendered DOM, recognize it, and take control over it without rendering again the component until needed.
 * Error and debug management for server and client side code.
